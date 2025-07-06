@@ -217,12 +217,6 @@ pip install pandas numpy matplotlib bokeh panel pathway
 !pip install pathway
 ```
 
-4. **Download the complete solution**
-```python
-# Use the corrected_complete_code.py file
-# Copy the code into your notebook or import it
-```
-
 ## 📖 Usage
 
 ### Basic Usage
