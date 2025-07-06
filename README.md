@@ -202,8 +202,8 @@ dashboard = create_live_dashboard()
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/dynamic-pricing-parking.git
-cd dynamic-pricing-parking
+git clone https://github.com/MrRogueKnight/Capstone-Project-of-Summer-Analytics-2025
+cd Capstone-Project-of-Summer-Analytics-2025
 ```
 
 2. **Install dependencies**
@@ -317,9 +317,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Link**: [https://github.com/yourusername/dynamic-pricing-parking](https://github.com/yourusername/dynamic-pricing-parking)
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Project Link**: [Capstone-Project-of-Summer-Analytics-2025](https://github.com/MrRogueKnight/Capstone-Project-of-Summer-Analytics-2025)
+- **LinkedIn**: [Prashant Ranjan](https://linkedin.com/in/MrRogueKnight)
 
 ## 🙏 Acknowledgments
 
